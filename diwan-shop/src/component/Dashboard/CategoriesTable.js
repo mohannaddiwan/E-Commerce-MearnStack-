@@ -7,7 +7,6 @@ import AddCategory from "../add/Add";
 import Form from "react-bootstrap/Form";
 import { useRef } from "react";
 import { useAppContext } from "../../context/appContext";
-import UpdateCategory from "../update/UpdateCategory";
 import Add from "../add/Add";
 
 const CategoriesTable = () => {

@@ -35,8 +35,6 @@ function Home() {
   };
   return (
     <>
-      {/* <Slider />  */}
-
       <AppNavbar filtereHandler={filtereHandler} value={value} />
       <Categories filteredCategory={filterCat} />
       <Products filteredProduct={filterPro} />
